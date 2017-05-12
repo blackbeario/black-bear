@@ -312,3 +312,6 @@ iframe { border: 1px solid #bebebe; }
     font-weight: 700;
     background: #fafafa;
 }
+.branding {
+  margin-top: 14px;
+}
