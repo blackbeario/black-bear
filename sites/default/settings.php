@@ -764,9 +764,9 @@ $settings['file_scan_ignore_directories'] = [
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'drupal_8',
-  'username' => 'db_admin',
-  'password' => 'Pisga#121',
+  'database' => 'black-bear',
+  'username' => 'root',
+  'password' => 'root',
   'prefix' => '',
   'host' => 'localhost',
   'port' => '3306',
